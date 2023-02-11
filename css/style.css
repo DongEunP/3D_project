@@ -1,4 +1,5 @@
-.intro_page video{
+
+.intro_page video, .intro_page2 video{
   width: 100%;
   height: 100vh;
   object-fit: cover;
